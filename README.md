@@ -1,5 +1,8 @@
 # ASSIGNMENT - LINEAR REGRESSION
 
+## developed by :Gokulramanan k
+## reg no: 212222230040
+
 #Q1. Create a scatter plot between cylinder vs Co2Emission (green color):
 
 ```
